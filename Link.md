@@ -7,3 +7,7 @@ https://start.jcolemorrison.com/
 
 https://itnext.io/managing-aws-infrastructure-as-code-using-ansible-cloudformation-and-codebuild-7edb2e515dff
 
+## Back to School: Understanding the IAM Policy Grammar
+
+https://aws.amazon.com/blogs/security/back-to-school-understanding-the-iam-policy-grammar/
+
