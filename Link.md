@@ -19,3 +19,7 @@ https://bigorange.cloud/actions/
 
 https://ifritltd.com/2018/09/09/kubernetes-authentication-with-aws-iam/
 
+##Create and manage AWS EKS cluster using eksctl command-line
+
+https://techbloc.net/archives/tag/amazon
+
