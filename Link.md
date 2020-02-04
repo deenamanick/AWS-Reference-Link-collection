@@ -15,3 +15,7 @@ https://aws.amazon.com/blogs/security/back-to-school-understanding-the-iam-polic
 
 https://bigorange.cloud/actions/
 
+## kubernetes-authentication-with-aws-iam
+
+https://ifritltd.com/2018/09/09/kubernetes-authentication-with-aws-iam/
+
