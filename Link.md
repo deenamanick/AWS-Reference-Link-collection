@@ -11,3 +11,7 @@ https://itnext.io/managing-aws-infrastructure-as-code-using-ansible-cloudformati
 
 https://aws.amazon.com/blogs/security/back-to-school-understanding-the-iam-policy-grammar/
 
+## Create policy format
+
+https://bigorange.cloud/actions/
+
