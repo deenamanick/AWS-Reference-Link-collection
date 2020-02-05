@@ -23,3 +23,7 @@ https://ifritltd.com/2018/09/09/kubernetes-authentication-with-aws-iam/
 
 https://techbloc.net/archives/tag/amazon
 
+## A deep dive into AWS S3 access controls – taking full control over your assets
+
+https://labs.detectify.com/2017/07/13/a-deep-dive-into-aws-s3-access-controls-taking-full-control-over-your-assets/
+
