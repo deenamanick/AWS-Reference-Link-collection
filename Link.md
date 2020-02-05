@@ -27,3 +27,6 @@ https://techbloc.net/archives/tag/amazon
 
 https://labs.detectify.com/2017/07/13/a-deep-dive-into-aws-s3-access-controls-taking-full-control-over-your-assets/
 
+## Replacing the AWS ELB - Automation
+
+https://blog.technodrone.cloud/2018/08/replacing-aws-elb-automation.html
