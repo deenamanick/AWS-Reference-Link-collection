@@ -34,3 +34,7 @@ https://blog.technodrone.cloud/2018/08/replacing-aws-elb-automation.html
 ## AWS Collection
 
 https://theithollow.com/?s=aws
+
+## AWS Workshop Colletion
+
+https://alestic.com/2019/12/aws-reinvent-2019-workshops-jennine/
