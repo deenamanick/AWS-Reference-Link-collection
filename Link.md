@@ -42,3 +42,7 @@ https://alestic.com/2019/12/aws-reinvent-2019-workshops-jennine/
 ## Listing AWS Accounts in an AWS Organization
 
 https://alestic.com/2018/02/aws-organizations-list-accounts/
+
+## AWS Common Mistakes
+
+https://quip.com/XIuQAcaClBVV
