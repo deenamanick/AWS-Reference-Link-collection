@@ -46,3 +46,7 @@ https://alestic.com/2018/02/aws-organizations-list-accounts/
 ## AWS Common Mistakes
 
 https://quip.com/XIuQAcaClBVV
+
+## AWS Management Tools Sessions
+
+http://www.awsmanagementweek.com/reinforce/
