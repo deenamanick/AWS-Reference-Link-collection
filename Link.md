@@ -58,3 +58,7 @@ https://www.qualimente.com/2019/03/11/testing-an-s3-policy-using-the-aws-iam-sim
 ## Cross-account S3 access
 
 https://www.cloudaxis.com/2018/09/24/cross-account-s3-access/
+
+## Cross-Account AWS IAM Roles in ECS Containers
+
+https://www.nclouds.com/blog/improve-operational-efficiency-cross-account-aws-iam-roles-ecs-containers/
