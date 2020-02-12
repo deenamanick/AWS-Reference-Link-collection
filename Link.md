@@ -50,3 +50,11 @@ https://quip.com/XIuQAcaClBVV
 ## AWS Management Tools Sessions
 
 http://www.awsmanagementweek.com/reinforce/
+
+## Testing an S3 policy using the AWS IAM Simulator
+
+https://www.qualimente.com/2019/03/11/testing-an-s3-policy-using-the-aws-iam-simulator/
+
+## Cross-account S3 access
+
+https://www.cloudaxis.com/2018/09/24/cross-account-s3-access/
