@@ -62,3 +62,7 @@ https://www.cloudaxis.com/2018/09/24/cross-account-s3-access/
 ## Cross-Account AWS IAM Roles in ECS Containers
 
 https://www.nclouds.com/blog/improve-operational-efficiency-cross-account-aws-iam-roles-ecs-containers/
+
+## Control Tower
+
+https://controltower.aws-management.tools/core/
