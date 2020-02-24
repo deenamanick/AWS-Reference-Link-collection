@@ -66,3 +66,7 @@ https://www.nclouds.com/blog/improve-operational-efficiency-cross-account-aws-ia
 ## Control Tower
 
 https://controltower.aws-management.tools/core/
+
+## Continuous Delivery using Spinnaker on Amazon EKS
+
+https://idk.dev/continuous-delivery-using-spinnaker-on-amazon-eks/
