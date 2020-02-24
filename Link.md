@@ -1,5 +1,6 @@
 ```
 https://start.jcolemorrison.com/
+https://idk.dev/category/aws/
 
 ```
 
