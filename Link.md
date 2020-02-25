@@ -3,6 +3,7 @@ https://start.jcolemorrison.com/
 https://idk.dev/category/aws/
 https://cloudaffaire.com/category/aws/
 https://geekylane.com/category/cloud/amazon-web-services/
+https://awsbytes.com/category/how-to-guides/ec2/
 
 ```
 
