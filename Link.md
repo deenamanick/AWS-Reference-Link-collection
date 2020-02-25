@@ -79,3 +79,6 @@ https://idk.dev/continuous-delivery-using-spinnaker-on-amazon-eks/
 
 ## how to extract ec2 instances details to CSV file
 https://www.techrunnr.com/how-to-extract-ec2-instances-details-to-csv-file/
+
+## automate ebs snapshot using cloud watch
+https://www.techrunnr.com/automate-ebs-snapshot-using-cloud-watch/
