@@ -40,6 +40,7 @@ https://theithollow.com/?s=aws
 ## AWS Workshop Colletion
 
 https://alestic.com/2019/12/aws-reinvent-2019-workshops-jennine/
+https://wellarchitectedlabs.com/README.html
 
 ## Listing AWS Accounts in an AWS Organization
 
