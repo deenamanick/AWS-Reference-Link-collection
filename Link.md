@@ -76,3 +76,6 @@ https://idk.dev/aws-control-tower-set-up-govern-a-multi-account-aws-environment/
 ## Continuous Delivery using Spinnaker on Amazon EKS
 
 https://idk.dev/continuous-delivery-using-spinnaker-on-amazon-eks/
+
+## how to extract ec2 instances details to CSV file
+https://www.techrunnr.com/how-to-extract-ec2-instances-details-to-csv-file/
