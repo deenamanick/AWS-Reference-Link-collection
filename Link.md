@@ -86,3 +86,7 @@ https://www.techrunnr.com/automate-ebs-snapshot-using-cloud-watch/
 ## grant IAM user to access a specific folder in an s3 bucket
 
 https://www.techrunnr.com/grant-iam-user-to-access-a-specific-folder-in-an-s3-bucket/
+
+## AWS: EBS Snapshot Scheduling
+
+https://hazaq.me/aws/2018/02/15/AWS-EBS-Snapshot-Scheduling.html
