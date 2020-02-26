@@ -90,6 +90,7 @@ https://www.techrunnr.com/grant-iam-user-to-access-a-specific-folder-in-an-s3-bu
 ## AWS: EBS Snapshot Scheduling
 
 https://hazaq.me/aws/2018/02/15/AWS-EBS-Snapshot-Scheduling.html
+https://infra.engineer/aws/23-automate-starting-and-stopping-ec2-s-using-lambda-and-cloudwatch
 
 ## Correct process to migrate to M5/C5 instance types
 https://infra.engineer/aws/49-aws-correct-process-to-migrate-to-m5-c5-instance-types
