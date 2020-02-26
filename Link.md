@@ -82,3 +82,7 @@ https://www.techrunnr.com/how-to-extract-ec2-instances-details-to-csv-file/
 
 ## automate ebs snapshot using cloud watch
 https://www.techrunnr.com/automate-ebs-snapshot-using-cloud-watch/
+
+## grant IAM user to access a specific folder in an s3 bucket
+
+https://www.techrunnr.com/grant-iam-user-to-access-a-specific-folder-in-an-s3-bucket/
