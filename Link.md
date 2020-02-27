@@ -94,3 +94,7 @@ https://infra.engineer/aws/23-automate-starting-and-stopping-ec2-s-using-lambda-
 
 ## Correct process to migrate to M5/C5 instance types
 https://infra.engineer/aws/49-aws-correct-process-to-migrate-to-m5-c5-instance-types
+
+## How to use Tags in AWS to give resource permissions?
+http://www.thecloudavenue.com/2019/07/how-to-use-tags-in-aws-to-give-resource.html
+
