@@ -43,6 +43,7 @@ https://theithollow.com/?s=aws
 
 https://alestic.com/2019/12/aws-reinvent-2019-workshops-jennine/
 https://wellarchitectedlabs.com/README.html
+https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
 
 ## Listing AWS Accounts in an AWS Organization
 
