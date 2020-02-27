@@ -4,6 +4,7 @@ https://idk.dev/category/aws/
 https://cloudaffaire.com/category/aws/
 https://geekylane.com/category/cloud/amazon-web-services/
 https://awsbytes.com/category/how-to-guides/ec2/
+https://www.bogotobogo.com/DevOps/AWS/Launching-Instance-to-a-New-Region-from-an-AMI.php
 
 ```
 
