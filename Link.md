@@ -101,3 +101,8 @@ https://infra.engineer/aws/49-aws-correct-process-to-migrate-to-m5-c5-instance-t
 ## How to use Tags in AWS to give resource permissions?
 http://www.thecloudavenue.com/2019/07/how-to-use-tags-in-aws-to-give-resource.html
 
+## Hosting Multiple Secure Sites Using Single AWS Application Load Balancer
+
+https://www.youtube.com/watch?v=MW4CchaNv7E&t=1012s
+
+
