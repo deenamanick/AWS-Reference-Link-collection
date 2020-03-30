@@ -7,7 +7,7 @@ https://awsbytes.com/category/how-to-guides/ec2/
 https://www.bogotobogo.com/DevOps/AWS/Launching-Instance-to-a-New-Region-from-an-AMI.php
 https://geekdudes.wordpress.com/amazon-web-services-aws/
 https://dinfratechsource.com/2018/11/11/monitor-memory-utilization-and-disk-utilization-on-ec2-instances-with-cloudwatch-custom-metrics/
-
+https://www.trek10.com/blog/search/
 ```
 
 ## Managing AWS Infrastructure as Code using Ansible, CloudFormation, and CodeBuild
