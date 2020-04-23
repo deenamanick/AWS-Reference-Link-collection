@@ -110,3 +110,6 @@ https://www.youtube.com/watch?v=MW4CchaNv7E&t=1012s
 ## How to Use AWS IAM with STS for access to AWS resources
 
 https://www.2ndwatch.com/blog/use-aws-iam-sts-access-aws-resources/
+
+## How to download files that others put in your AWS S3 bucket
+https://medium.com/artificial-industry/how-to-download-files-that-others-put-in-your-aws-s3-bucket-2269e20ed041
