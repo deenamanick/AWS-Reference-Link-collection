@@ -113,3 +113,7 @@ https://www.2ndwatch.com/blog/use-aws-iam-sts-access-aws-resources/
 
 ## How to download files that others put in your AWS S3 bucket
 https://medium.com/artificial-industry/how-to-download-files-that-others-put-in-your-aws-s3-bucket-2269e20ed041
+
+## Hosting a static site on AWS: is CloudFront always the right choice?
+
+https://medium.com/faun/hosting-a-static-site-on-aws-is-cloudfront-always-the-right-choice-1c9501c2cef3
